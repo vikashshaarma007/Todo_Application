@@ -9,9 +9,20 @@
   <br>
 
   To create APIs that allow users to create, update, delete, and fetch all Todo tasks in node.js, express.js.
+1. Create Todos
+   ![image](https://github.com/user-attachments/assets/714475b6-534e-4793-8f98-6ecb85015d1a)
+2. fatch all Todos
+   ![image](https://github.com/user-attachments/assets/c06b67e9-bae6-4be5-8a2f-bc81f84a9feb)
+3. Fatch Todo By id
+   ![image](https://github.com/user-attachments/assets/f31f37f7-ba50-48cf-894e-f7ffce7da195)
+4. Update Todo by id
+   ![image](https://github.com/user-attachments/assets/604c46e7-fff0-4b98-9d24-3aec9e1e20c7)
+5. Delete Todo by id
+   ![image](https://github.com/user-attachments/assets/df7e6a57-9423-4154-ae27-7ec4c1e87edb)
+6. Database Todo
+   ![image](https://github.com/user-attachments/assets/713b0e20-2666-4e94-8ef4-09da5db05800)
 
-
-  Built With : 
+## Built With : 
 * Node.js 
 * Express.js
 * Mongodb
