@@ -28,7 +28,7 @@ Built With :
 * Express.js
 * MongoDb
 * Backend Deployed on : render.com
-* PostgreSQL database Hosted on : Todo_application
+* PostgreSQL database Hosted on : Todo_db
 * Sequelize : to interact with the PostgreSQL database
 
   <!-- GETTING STARTED -->
