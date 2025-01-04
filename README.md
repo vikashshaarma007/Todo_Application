@@ -7,7 +7,8 @@
  
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
   <br>
-## Todo Application
+ 
+   ## Todo Application
   <br>
      To create rest APIs that allow users to create, update, delete, and fetch all Todo tasks.
 
