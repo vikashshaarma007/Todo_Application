@@ -4,11 +4,11 @@
 <br>
 <p align="center"><i>Looking forward to working with you Bytive Technologies Private Limitedi!</i> 👨🏽‍💻 </p>
 <br>
- ## Todo Application
+ 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
   <br>
-
-  To create APIs that allow users to create, update, delete, and fetch all Todo tasks.
+## Todo Application
+   To create APIs that allow users to create, update, delete, and fetch all Todo tasks.
 
   1. Create Todo
      ![Screenshot 2025-01-02 122155](https://github.com/user-attachments/assets/bf6e45d8-d4ea-4a72-aa16-f9a24a246801)
