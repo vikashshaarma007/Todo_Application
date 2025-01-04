@@ -28,8 +28,8 @@ Built With :
 * Node.js 
 * Express.js
 * MongoDb
-* PostgreSQL database Hosted on : Todo_db
-* Sequelize : to interact with the PostgreSQL database
+* MongoDb database Hosted on : Todo_db
+* mongoose : to interact with the MongoDb database
 
   <!-- GETTING STARTED -->
 ## Getting Started
@@ -42,7 +42,7 @@ Built With :
 * npm
   ```sh
   npm install npm@latest -g
-  dependencies : express axios cors pg sequelize
+  dependencies : express axios cors mongoose
   ```
 * to run the project
   ```sh
@@ -61,7 +61,7 @@ _Follow these simple steps to get the server up and running 👾🧮🚀✅._
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   npm install node express mongoose
    ```
 
 
