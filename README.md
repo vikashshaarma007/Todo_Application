@@ -8,7 +8,8 @@
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
   <br>
 ## Todo Application
-   To create APIs that allow users to create, update, delete, and fetch all Todo tasks.
+  <br>
+     To create APIs that allow users to create, update, delete, and fetch all Todo tasks.
 
   1. Create Todo
      ![Screenshot 2025-01-02 122155](https://github.com/user-attachments/assets/bf6e45d8-d4ea-4a72-aa16-f9a24a246801)
