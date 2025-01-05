@@ -62,7 +62,7 @@ _Follow these simple steps to get the server up and running 👾🧮🚀✅._
    ```
 2. Install NPM packages
    ```sh
-   npm install node express mongoose
+   npm install express mongoose
    ```
 
 
