@@ -1,6 +1,6 @@
 <h1 align="center">Todo Application 🧮🚀</h1>
 
-<p align="center"><i>A node js for Todo Application with the following CRUD operations </i></p>
+<p align="center"><i>A node.js for Todo Application with the following CRUD operations </i></p>
 <br>
 <p align="center"><i>Looking forward to working with you Bytive Technologies Private Limitedi!</i> 👨🏽‍💻 </p>
 <br>
