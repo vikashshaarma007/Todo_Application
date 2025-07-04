@@ -1,6 +1,6 @@
 <h1 align="center">Todo Application 🧮🚀</h1>
 
-<p align="center"><i>A node.js for Todo Application with the following CRUD operations </i></p>
+<p align="left"><i>TodoBase API is a backend RESTful web service built with Node.js, Express, and MongoDB, enabling users to manage their daily tasks efficiently. The application follows RESTful architecture principles and offers full CRUD operations to create, read, update, and delete todo items.This API is ideal for powering a todo list frontend app, mobile task tracker, or for use as a backend learning project for mastering Node.js and MongoDB integrations. </i></p>
 <br>
 <p align="center"><i>Looking forward to working with you Bytive Technologies Private Limitedi!</i> 👨🏽‍💻 </p>
 <br>
